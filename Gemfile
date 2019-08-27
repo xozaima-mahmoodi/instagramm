@@ -28,6 +28,7 @@ gem 'simple_form'
 gem 'bootstrap-sass'
 gem 'devise'
 gem 'paperclip'
+gem 'masonry-rails'
 
 
 # Use Redis adapter to run Action Cable in production
